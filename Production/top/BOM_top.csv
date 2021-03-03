@@ -1,0 +1,17 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"J15";"PinHeader_1x03_P2.54mm_Vertical";1;"Conn_01x03";;;
+2;"J14";"JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical";1;"x_limit";;;
+3;"J13";"JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical";1;"hotend_fan";;;
+4;"J12";"JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical";1;"a_motor";;;
+5;"J11";"JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical";1;"b_motor";;;
+6;"J10";"JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical";1;"y_limit";;;
+7;"J9";"JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical";1;"part_fan";;;
+8;"J8";"JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical";1;"thermistor";;;
+9;"J7";"Molex_Micro-Fit_3.0_43045-2412_2x12_P3.00mm_Vertical";1;"Conn_02x12_Top_Bottom";;;
+10;"J6";"JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical";1;"adxl345";;;
+11;"J5";"Molex_Micro-Fit_3.0_43045-1212_2x06_P3.00mm_Vertical";1;"Conn_02x06_Top_Bottom";;;
+12;"J4";"JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical";1;"extruder";;;
+13;"J3";"JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical";1;"probe";;;
+14;"J2";"PinHeader_1x04_P2.54mm_Vertical";1;"Conn_01x04";;;
+15;"J1";"JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical";1;"bme280";;;
+16;"H4,H3,H2,H1";"MountingHole_3.2mm_M3";4;"MountingHole";;;
