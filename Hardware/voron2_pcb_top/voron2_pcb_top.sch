@@ -170,12 +170,12 @@ $EndComp
 $Comp
 L Connector_Generic:Conn_01x03 J3
 U 1 1 6033E012
-P 3800 1450
-F 0 "J3" H 3880 1492 50  0000 L CNN
-F 1 "probe" H 3880 1401 50  0000 L CNN
-F 2 "Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical" H 3800 1450 50  0001 C CNN
-F 3 "~" H 3800 1450 50  0001 C CNN
-	1    3800 1450
+P 3700 1450
+F 0 "J3" H 3780 1492 50  0000 L CNN
+F 1 "probe" H 3780 1401 50  0000 L CNN
+F 2 "Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical" H 3700 1450 50  0001 C CNN
+F 3 "~" H 3700 1450 50  0001 C CNN
+	1    3700 1450
 	-1   0    0    -1  
 $EndComp
 $Comp
@@ -212,12 +212,6 @@ Wire Wire Line
 	3650 1850 4200 1850
 Wire Wire Line
 	4200 1950 3650 1950
-Wire Wire Line
-	4000 1550 4200 1550
-Wire Wire Line
-	4200 1450 4000 1450
-Wire Wire Line
-	4000 1350 4700 1350
 Wire Wire Line
 	4700 1350 4700 1450
 Wire Wire Line
@@ -336,4 +330,19 @@ Wire Wire Line
 	1900 1400 1900 1500
 Wire Wire Line
 	2000 1500 2000 1400
+$Comp
+L Diode:BAT85 D1
+U 1 1 60402B54
+P 4050 1450
+F 0 "D1" H 4050 1667 50  0000 C CNN
+F 1 "BAT85" H 4050 1576 50  0000 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4050 1275 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/BAT85.pdf" H 4050 1450 50  0001 C CNN
+	1    4050 1450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3900 1550 4200 1550
+Wire Wire Line
+	3900 1350 4700 1350
 $EndSCHEMATC
