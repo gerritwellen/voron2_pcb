@@ -1,0 +1,6 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"J4";"JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical";1;"a_motor";;;
+2;"J3";"JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical";1;"b_motor";;;
+3;"J2";"Molex_Micro-Fit_3.0_43045-1212_2x06_P3.00mm_Vertical";1;"Conn_02x06_Top_Bottom";;;
+4;"J1";"JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical";1;"bme280";;;
+5;"H2,H1";"MountingHole_3.2mm_M3";2;"MountingHole";;;

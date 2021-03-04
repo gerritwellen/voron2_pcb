@@ -1,0 +1,15 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"D1";"D_DO-35_SOD27_P7.62mm_Horizontal";1;"BAT85";;;
+2;"G***";"logo_14mm";1;"LOGO";;;
+3;"J8";"PinHeader_1x03_P2.54mm_Vertical";1;"Conn_01x03";;;
+4;"J11";"JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical";1;"x_limit";;;
+5;"J5";"JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical";1;"hotend_fan";;;
+6;"J9";"JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical";1;"y_limit";;;
+7;"J4";"JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical";1;"part_fan";;;
+8;"J2";"JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical";1;"thermistor";;;
+9;"J6";"Molex_Micro-Fit_3.0_43045-2412_2x12_P3.00mm_Vertical";1;"Conn_02x12_Top_Bottom";;;
+10;"J10";"JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical";1;"adxl345";;;
+11;"J1";"JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical";1;"extruder";;;
+12;"J3";"JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical";1;"probe";;;
+13;"J7";"PinHeader_1x04_P2.54mm_Vertical";1;"Conn_01x04";;;
+14;"H2,H1";"MountingHole_3.2mm_M3";2;"MountingHole";;;
